@@ -1,0 +1,21 @@
+- title: Javascript
+  docs:
+  - intro
+  - contact-form
+  - hit-counter
+  - personal-notebook
+  
+- title: PHP
+  docs:
+  - wordpress
+
+- title: Photoshop
+  docs:
+  - photoshop-softening
+  - photoshop-sharpening
+  - photoshop-bg-blurring
+  
+- title: Miscellaneous
+  docs:
+  - htaccess-multi-sites
+  - dns-aws-route53

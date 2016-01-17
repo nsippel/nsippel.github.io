@@ -1,0 +1,21 @@
+# Site settings
+title: 1-to.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://1-to.com" # the base hostname & protocol for your local site http://127.0.0.1:4000
+twitter_username: n_sippel
+github_username:  nsippel
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/

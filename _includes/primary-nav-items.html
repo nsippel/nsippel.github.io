@@ -1,0 +1,11 @@
+<ul>
+  <li class="{% if page.overview %}current{% endif %}">
+    <a href="/"><i class="icon-home"></i> Home</a>
+  </li>
+  <li class="{% if page.url contains '/portfolio/' %}current{% endif %}">
+    <a href="/portfolio/"><i class="icon-briefcase"></i> Portfolio</a>
+  </li>
+    <li class="{% if page.url contains '/contact/' %}current{% endif %}">
+    <a href="/contact/"><i class="icon-envelope"></i> Contact</a>
+  </li>
+</ul>
