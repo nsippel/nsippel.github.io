@@ -21,7 +21,7 @@ author: all
 
     <div class="row intro intro-text"> 
         <div class="col-md-12">
-            Here are some of my work. Most of these sites are my personal websites. Professional work that I did during the last 2 years are not for public display. I show the site images as mini slides. Click the white dot indicators to see sections of the site home page.
+            Here are some of my work. All of these sites except Referral Tracker are my demonstration models. The professional work that I did during the last 2 years are not for public display. I show the site images as mini slides. Click the white dot indicators to see sections of the site home page.
         </div>
     </div><!-- row -->
 
@@ -207,7 +207,7 @@ author: all
         <div class="col-md-4">    
             <h4><a href="//1-if.com" target="_blank">1-if</a></h4>
             <ul>
-            <li>Another WordPress blog site.</li>
+            <li>A WordPress blog site.</li>
             <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3, Bootstrap.</li>
             <li>Hosted at 1and1.com.</li>
             <li>I install a plugin I built to allow the contributer/writer to upload image from a mobile device. Also a plugin for user to enter recipe ingredient. </li>
