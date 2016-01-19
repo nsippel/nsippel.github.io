@@ -251,7 +251,7 @@ footer {
   .unit { padding: 10px 0 40px; vertical-align:center;}
   img {
    	margin:10px;
-    border:solid 2px #ffffff;
+    border:solid 5px #ffffff;
   }
 
 }
@@ -1059,4 +1059,16 @@ div .hitcounter {
 
 .intro-text {
   padding-bottom:20px;
+}
+
+
+.margin-top-05 { margin-top: 0.5em; }
+.margin-top-10 { margin-top: 1.0em; }
+.margin-top-15 { margin-top: 1.5em; }
+.margin-top-20 { margin-top: 2.0em; }
+.margin-top-25 { margin-top: 2.5em; }
+.margin-top-30 { margin-top: 3.0em; }
+
+.carousel-indicators{
+  bottom: -32px;
 }

@@ -21,7 +21,7 @@ author: all
 
     <div class="row intro intro-text"> 
         <div class="col-md-12">
-            Here are some of my work. I show the site images as mini slides. Click the white dot indicators to see sections of the site home page.
+            Here are some of my work. Most of these sites are my personal websites. Professional work that I did during the last 2 years are not for public display. I show the site images as mini slides. Click the white dot indicators to see sections of the site home page.
         </div>
     </div><!-- row -->
 
@@ -50,9 +50,9 @@ author: all
         <div class="col-md-4">
             <h4><a href="//1-to.com" target="_blank">1-to</a></h4>
             <ul>
-            <li>Built with Jekyll, an open source site/blog generator written in Ruby.</li>
+            <li>My personal portfolio.</li>
+            <li>Technologies: Jekyll, Ruby, Bootstrap, Javascript, JQuery, HTML5, CSS3.</li>
             <li>Hosted at Github.</li>
-            <li>Enhanced with Bootstrap framework.</li>
             <li>I built a small API application on another server outside Github and consume the API here. The site images on this page are created from that API application. The API takes a site screenshot and slices the screenshot into images as requested by the API caller. </li>
             </ul>
         </div><!-- col-md-4 -->
@@ -83,8 +83,9 @@ author: all
             <h4><a href="//houndproject.com" target="_blank">Hound Project</a></h4>
             <ul>
             <li>A web-based project management system for location-independent team collaboration.</li>
-            <li>Powered by OpenProject. OpenProject is an open source application written in Ruby.</li>
-            <li>Hosted at Amazon Web Services {AWS).</li>
+            <li>Technologies: OpenProject, Ruby, GitLab, Nginx, HTML, CSS, Javascript.</li>
+            <li>Hosted at Amazon Web Services (AWS).</li>
+            <li>I installed and customized the appearance using CSS and Javascript. I used this application to manage and document my personal projects.</li>
             <li><a href="//houndproject.com" target="_blank">Visit the site</a></li>
             </ul>
         </div><!-- col-md-4 -->
@@ -127,9 +128,10 @@ author: all
         <div class="col-md-4">
             <h4><a href="//referral-tracker.net" target="_blank">Referral Tracker</a></h4>
             <ul>
-            <li>I built the website in 2011 ground up from scratch as the sole developer and the system administrator for the website.</li>
-            <li>This website is an MVC Architecture framework and developed with node js, PHP (Symfony) and MySql, hosted at AWS.</li>
             <li>This is a paid subscription based website. User pays the subscription with credit card.</li>
+            <li>Technologies: Nginx, PHP (php5-fpm), Symfony, Mysql, Javascript, jquery, HTML5, CSS3, Bootstrap</li>
+            <li> Hosted at AWS.</li>
+            <li>I built the website in 2011 ground up from scratch as the sole developer and the system administrator for the website.</li>
             <li><a href="//referral-tracker.net" target="_blank">Visit the site.</a></li>
             </ul>
         </div><!-- col-md-4 -->
@@ -158,7 +160,10 @@ author: all
         <div class="col-md-4">
             <h4><a href="//wildbirdslife.com" target="_blank">Wild Birds Life</a></h4>
             <ul>
-            <li>A WordPress blog site, hosted at 1and1.com.</li>
+            <li>A WordPress blog site.</li>
+            <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3, Bootstrap.</li>
+            <li>Hosted at 1and1.com.</li>
+            <li>I built and install a plugin to allow the blog contributer/writer to upload images and sound (bird calls/song) from a mobile device. Also a plugin that displays feature photos based on the post popularity and guest votes.</li>
             <li><a href="//wildbirdslife.com" target="_blank">Visit the site</a></li>
             </ul>
         </div><!-- col-md-4 -->
@@ -202,7 +207,10 @@ author: all
         <div class="col-md-4">    
             <h4><a href="//1-if.com" target="_blank">1-if</a></h4>
             <ul>
-            <li>A WordPress blog site, hosted at 1and1.com</li>
+            <li>Another WordPress blog site.</li>
+            <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3, Bootstrap.</li>
+            <li>Hosted at 1and1.com.</li>
+            <li>I install a plugin I built to allow the contributer/writer to upload image from a mobile device. Also a plugin for user to enter recipe ingredient. </li>
             <li><a href="//1-if.com" target="_blank">Visit the site. </a></li>
             </ul>
         </div><!-- col-md-4 -->
