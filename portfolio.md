@@ -21,7 +21,8 @@ author: all
 
     <div class="row intro intro-text"> 
         <div class="col-md-12">
-            Here are some of my work. All of these sites except Referral Tracker are my demonstration models. The professional work that I did during the last 2 years are not for public display. I show the site images as mini slides. Click the white dot indicators to see sections of the site home page.
+            Here is some of my work. All of these sites except Referral Tracker are demonstration models. Referral tracker has produced professionally 3 years ago. The work that I did since that time is  not for public display. I am showing the site images as mini slides. Click the white dot indicators to see sections of the site home page.
+
         </div>
     </div><!-- row -->
 
@@ -163,7 +164,7 @@ author: all
             <li>A WordPress blog site.</li>
             <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3, Bootstrap.</li>
             <li>Hosted at 1and1.com.</li>
-            <li>I built and install a plugin to allow the blog contributer/writer to upload images and sound (bird calls/song) from a mobile device. Also a plugin that displays feature photos based on the post popularity and guest votes.</li>
+            <li>I built and install a plugin to allow the blog contributer/writer to upload images and sound (bird calls/song) from a mobile device. Also a plugin that displays feature photos based on the post popularity.</li>
             <li><a href="//wildbirdslife.com" target="_blank">Visit the site</a></li>
             </ul>
         </div><!-- col-md-4 -->
