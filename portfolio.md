@@ -37,13 +37,13 @@ author: all
                 </ol>
                 <div class="carousel-inner" data-url="//1-to.com">
                     <div class="item active">
-                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=1" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256" >
                     </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=2" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=3" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -68,13 +68,13 @@ author: all
                 </ol>
                 <div class="carousel-inner" data-url="//houndproject.com">
                     <div class="item active">
-                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=1" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=2" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=3" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256" >
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -84,7 +84,7 @@ author: all
             <h4><a href="//houndproject.com" target="_blank">Hound Project</a></h4>
             <ul>
             <li>A web-based project management system for location-independent team collaboration.</li>
-            <li>Technologies: OpenProject, Ruby, GitLab, Nginx, HTML, CSS, Javascript.</li>
+            <li>Technologies: OpenProject, Ruby, Mysql, Git, Apache, HTML5, CSS3, Javascript, jQuery.</li>
             <li>Hosted at Amazon Web Services (AWS).</li>
             <li>I installed and customized the appearance using CSS and Javascript. I used this application to manage and document my personal projects.</li>
             <li><a href="//houndproject.com" target="_blank">Visit the site</a></li>
@@ -105,23 +105,23 @@ author: all
                     <li data-target="#r-t" data-slide-to="5" ></li>
                 </ol>
                 <div class="carousel-inner" data-url="//referral-tracker.net">
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio">
-                    </div>
                     <div class="item active">
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=2" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256">
+                    </div>
+                    <div class="item">
+                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">   
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=4" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=4" alt="" class="portfolio" width="341" height="256">
                         </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=5" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=5" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">   
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=6" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=6" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -130,7 +130,7 @@ author: all
             <h4><a href="//referral-tracker.net" target="_blank">Referral Tracker</a></h4>
             <ul>
             <li>This is a paid subscription based website. User pays the subscription with credit card.</li>
-            <li>Technologies: Nginx, PHP (php5-fpm), Symfony, Mysql, Javascript, jquery, HTML5, CSS3, Bootstrap</li>
+            <li>Technologies: Nginx, PHP (php5-fpm), Symfony, Mysql, Javascript, Node Js, jquery, HTML5, CSS3, Bootstrap</li>
             <li> Hosted at AWS.</li>
             <li>I built the website in 2011 ground up from scratch as the sole developer and the system administrator for the website.</li>
             <li><a href="//referral-tracker.net" target="_blank">Visit the site.</a></li>
@@ -147,13 +147,13 @@ author: all
                 </ol>
                 <div class="carousel-inner" data-url="//wildbirdslife.com">
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item active">   
-                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=2" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">   
-                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -161,10 +161,10 @@ author: all
         <div class="col-md-4">
             <h4><a href="//wildbirdslife.com" target="_blank">Wild Birds Life</a></h4>
             <ul>
-            <li>A WordPress blog site.</li>
+            <li>A WordPress blog about birding.</li>
             <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3, Bootstrap.</li>
             <li>Hosted at 1and1.com.</li>
-            <li>I built and install a plugin to allow the blog contributer/writer to upload images and sound (bird calls/song) from a mobile device. Also a plugin that displays feature photos based on the post popularity.</li>
+            <li>I customized a WordPress theme; modified, built and installed plugins to display the popular birds on the blog and allow guests to post articles with images.</li>
             <li><a href="//wildbirdslife.com" target="_blank">Visit the site</a></li>
             </ul>
         </div><!-- col-md-4 -->
@@ -175,31 +175,23 @@ author: all
         <div class="col-md-2">
             <div class="carousel" id="1-if">
                 <ol class="carousel-indicators">
-                    <li data-target="#1-if" data-slide-to="0" ></li>
+                    <li data-target="#1-if" data-slide-to="0" class="active" ></li>
                     <li data-target="#1-if" data-slide-to="1" ></li>
                     <li data-target="#1-if" data-slide-to="2" ></li>
                     <li data-target="#1-if" data-slide-to="3" ></li>
-                    <li data-target="#1-if" data-slide-to="4" class="active"></li>
-                    <li data-target="#1-if" data-slide-to="5" ></li>
                 </ol>
                 <div class="carousel-inner" data-url="//1-if.com">
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=2&xSlices=3&slideIndex=2" alt="" class="portfolio">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=2&xSlices=4&slideIndex=4" alt="" class="portfolio">
-                    </div>
                     <div class="item active">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=2&xSlices=5&slideIndex=5" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=2&xSlices=6&slideIndex=6" alt="" class="portfolio">
+                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=7" alt="" class="portfolio" width="341" height="256">
+                    </div>
+                    <div class="item">
+                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=8" alt="" class="portfolio" width="341" height="256">
+                    </div>
+                    <div class="item">
+                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=9" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
           
@@ -208,10 +200,10 @@ author: all
         <div class="col-md-4">    
             <h4><a href="//1-if.com" target="_blank">1-if</a></h4>
             <ul>
-            <li>A WordPress blog site.</li>
-            <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3, Bootstrap.</li>
+            <li>A WordPress blog about cooking and recipes.</li>
+            <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3.</li>
             <li>Hosted at 1and1.com.</li>
-            <li>I install a plugin I built to allow the contributer/writer to upload image from a mobile device. Also a plugin for user to enter recipe ingredient. </li>
+            <li>I customized a WordPress theme. The blog's guests or visitors can post recipes with images.</li>
             <li><a href="//1-if.com" target="_blank">Visit the site. </a></li>
             </ul>
         </div><!-- col-md-4 -->

@@ -69,7 +69,7 @@ author: all
 	                <div class="unit">	               
 		                <article class="my-contact">
 		                	<h3>
-			                	<i class="icon-smile"></i> Kiem Yin<br/>
+			                	<i class="icon-smile"></i> Ninique Sippel<br/>
 			                	<i class="icon-home"></i> San Rafael, CA 94903<br/>
 			                	<i class="icon-phone"></i> 1.415.488.6863<br/>
 			                	<a href="//www.linkedin.com/in/ninique-sippel-063155a3" alt="" target="_blank"><i class="icon-linkedin"></i></a>

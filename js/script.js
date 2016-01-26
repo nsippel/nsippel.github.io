@@ -119,7 +119,7 @@ $(function(){
 
     // Add hit counter from hitcounter.com
     var imgsource = '//hitwebcounter.com/counter/counter.php?page=6231327&style=0006&nbdigits=5&type=ip&initCount=0';
-    $('.hitcounter').append('<img src="' + imgsource + '" title="Hit Counter" alt="Hit Counter"/>');
+    $('.hitcounter').append('<img src="' + imgsource + '" title="Hit Counter" alt="Hit Counter" width="75" height="20" />');
 
     // Link the carousel to the website home page, get the site url form the attribute 'data-url'
     $(".carousel-inner").click(function(){
