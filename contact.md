@@ -75,6 +75,10 @@ author: all
 			                	<a href="//www.linkedin.com/in/ninique-sippel-063155a3" alt="" target="_blank"><i class="icon-linkedin"></i></a>
 			                	<a href="//github.com/nsippel" alt="" target="_blank"><i class="icon-github"></i></a>
 		                	</h3>
+		                	<p class="quote">
+		                		"A wise man can learn more from a foolish question than a fool can learn from a wise answer"
+								 <span class="quote-by">~ Bruce Lee<span>
+    						</p> 
 		                </article><!-- my-contact -->
 		            <div><!-- unit -->
 		        <div><!-- grid -->

@@ -21,8 +21,7 @@ author: all
 
     <div class="row intro intro-text"> 
         <div class="col-md-12">
-            Here is some of my work. All of these sites except Referral Tracker are demonstration models. Referral tracker has produced professionally 3 years ago. The work that I did since that time is  not for public display. I am showing the site images as mini slides. Click the white dot indicators to see sections of the site home page.
-
+            Here is some of my work. All of these sites except Referral Tracker are demonstration models. Referral tracker has produced professionally 3 years ago. The work that I did since that time is  not for public display. 
         </div>
     </div><!-- row -->
 
@@ -30,20 +29,9 @@ author: all
         <!-- 1-to.com -->
         <div class="col-md-2">
             <div class="carousel" id="1-to">
-                <ol class="carousel-indicators">
-                    <li data-target="#1-to" data-slide-to="0" class="active"></li>
-                    <li data-target="#1-to" data-slide-to="1" ></li>
-                    <li data-target="#1-to" data-slide-to="2" ></li>
-                </ol>
                 <div class="carousel-inner" data-url="//1-to.com">
                     <div class="item active">
                         <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256" >
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000/?url=http://1-to.com&ySlices=1&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -62,19 +50,19 @@ author: all
         <div class="col-md-2">
             <div class="carousel" id="hp">
                 <ol class="carousel-indicators">
-                    <li data-target="#hp" data-slide-to="0" class="active" ></li>
+                    <li data-target="#hp" data-slide-to="0" ></li>
                     <li data-target="#hp" data-slide-to="1" ></li>
-                    <li data-target="#hp" data-slide-to="2" ></li>
+                    <li data-target="#hp" data-slide-to="2" class="active" ></li>
                 </ol>
                 <div class="carousel-inner" data-url="//houndproject.com">
+                    <div class="item">
+                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256">
+                    </div>
+                    <div class="item">
+                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=2&xSlices=3&slideIndex=4" alt="" class="portfolio" width="341" height="256">
+                    </div>
                     <div class="item active">
-                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=1&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256" >
+                        <img src="//52.53.249.122:4000?url=https://houndproject.com&ySlices=2&xSlices=3&slideIndex=5" alt="" class="portfolio" width="341" height="256" >
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -100,9 +88,6 @@ author: all
                     <li data-target="#r-t" data-slide-to="0"  class="active"></li>
                     <li data-target="#r-t" data-slide-to="1" ></li>
                     <li data-target="#r-t" data-slide-to="2" ></li>
-                    <li data-target="#r-t" data-slide-to="3" ></li>
-                    <li data-target="#r-t" data-slide-to="4" ></li>
-                    <li data-target="#r-t" data-slide-to="5" ></li>
                 </ol>
                 <div class="carousel-inner" data-url="//referral-tracker.net">
                     <div class="item active">
@@ -113,15 +98,6 @@ author: all
                     </div>
                     <div class="item">   
                         <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=4" alt="" class="portfolio" width="341" height="256">
-                        </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=5" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">   
-                        <img src="//52.53.249.122:4000?url=http://referral-tracker.net&ySlices=2&xSlices=3&slideIndex=6" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -143,17 +119,13 @@ author: all
                 <ol class="carousel-indicators">
                     <li data-target="#wbl" data-slide-to="0" ></li>
                     <li data-target="#wbl" data-slide-to="1" class="active"></li>
-                    <li data-target="#wbl" data-slide-to="2" ></li>
                 </ol>
                 <div class="carousel-inner" data-url="//wildbirdslife.com">
                     <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=1" alt="" class="portfolio" width="341" height="256">
+                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=1&xSlices=3&slideIndex=1" alt="Wild Bird Life" class="portfolio" width="341" height="256">
                     </div>
                     <div class="item active">   
-                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">   
-                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=2&xSlices=3&slideIndex=3" alt="" class="portfolio" width="341" height="256">
+                        <img src="//52.53.249.122:4000?url=http://wildbirdslife.com&ySlices=1&xSlices=3&slideIndex=2" alt="Wild Bird Life" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
             </div> <!-- carousel -->
@@ -174,24 +146,9 @@ author: all
         <!-- 1-if.com -->
         <div class="col-md-2">
             <div class="carousel" id="1-if">
-                <ol class="carousel-indicators">
-                    <li data-target="#1-if" data-slide-to="0" class="active" ></li>
-                    <li data-target="#1-if" data-slide-to="1" ></li>
-                    <li data-target="#1-if" data-slide-to="2" ></li>
-                    <li data-target="#1-if" data-slide-to="3" ></li>
-                </ol>
                 <div class="carousel-inner" data-url="//1-if.com">
                     <div class="item active">
                         <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=7" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=8" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                    <div class="item">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=9" alt="" class="portfolio" width="341" height="256">
                     </div>
                 </div> <!-- carousel-inner -->
           

@@ -1061,7 +1061,6 @@ div .hitcounter {
   padding-bottom:20px;
 }
 
-
 .margin-top-05 { margin-top: 0.5em; }
 .margin-top-10 { margin-top: 1.0em; }
 .margin-top-15 { margin-top: 1.5em; }
@@ -1071,4 +1070,22 @@ div .hitcounter {
 
 .carousel-indicators{
   bottom: -32px;
+}
+
+.about-me{
+  img {
+    float:left; 
+    margin-right:35px; 
+    border-width:0px; 
+    box-shadow: 0 8px 6px -6px black; 
+    border-top: solid #E6E6E6 2px;
+  }
+}
+
+.quote {
+  font-size:80%;
+  margin-top: 1.5em;
+  .quote-by{
+     font-style:italic;
+  }
 }
