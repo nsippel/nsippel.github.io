@@ -21,11 +21,33 @@ author: all
 
     <div class="row intro intro-text"> 
         <div class="col-md-12">
-            Here is some of my work. All of these sites except Referral Tracker are demonstration models. Referral tracker has produced professionally 3 years ago. The work that I did since that time is  not for public display. 
+            Here is some of my work. All of these sites except Referral Tracker and Mobile Device POA Platform are demonstration models. Referral tracker has produced professionally 3 years ago. The work that I did since that time is  not for public display. 
         </div>
     </div><!-- row -->
 
     <div class="row"> 
+        <!-- 1-if.com -->
+        <div class="col-md-2">
+            <div class="carousel" id="1-if">
+                <div class="carousel-inner" data-url="//1-if.com">
+                    <div class="item active">
+                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
+                    </div>
+                </div> <!-- carousel-inner -->
+          
+            </div> <!-- carousel -->
+        </div><!-- col-md-2 -->
+        <div class="col-md-4">    
+            <h4><a href="//1-if.com" target="_blank">1-if</a></h4>
+            <ul>
+            <li>A WordPress blog about cooking and recipes.</li>
+            <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3.</li>
+            <li>Hosted at 1and1.com.</li>
+            <li>I customized a WordPress theme. The blog's guests or visitors can post recipes with images.</li>
+            <li><a href="//1-if.com" target="_blank">Visit the site. </a></li>
+            </ul>
+        </div><!-- col-md-4 -->
+
         <!-- 1-to.com -->
         <div class="col-md-2">
             <div class="carousel" id="1-to">
@@ -42,11 +64,15 @@ author: all
             <li>My personal portfolio.</li>
             <li>Technologies: Jekyll, Ruby, Bootstrap, Javascript, JQuery, HTML5, CSS3.</li>
             <li>Hosted at Github.</li>
-            <li>I built a small API application on another server outside Github and consume the API here. The site images on this page are created from that API application. The API takes a site screenshot and slices the screenshot into images as requested by the API caller. </li>
+            <li>I built a small API application on another server outside Github and consume the API here. The site images on this page are created on the fly by the API application. The API takes a site screenshot and slices the screenshot into images as requested by the API caller. </li>
             </ul>
         </div><!-- col-md-4 -->
         
-        <!-- houndproject.com -->
+    </div><!-- row 1st -->
+
+    <div class="row">   
+
+       <!-- houndproject.com -->
         <div class="col-md-2">
             <div class="carousel" id="hp">
                 <ol class="carousel-indicators">
@@ -77,8 +103,36 @@ author: all
             <li>I installed and customized the appearance using CSS and Javascript. I used this application to manage and document my personal projects.</li>
             <li><a href="//houndproject.com" target="_blank">Visit the site</a></li>
             </ul>
-        </div><!-- col-md-4 -->
-    </div><!-- row -->
+        </div><!-- col-md-4 -->   
+
+        <!-- Consensus Corporation/Target Store Mobile Device POA -->
+        <div class="col-md-2">
+            <div class="carousel" id="target">
+                <ol class="carousel-indicators">
+                    <li data-target="#target" data-slide-to="0" class="active"></li>
+                    <li data-target="#target" data-slide-to="1" ></li>
+                </ol>
+                <div class="carousel-inner" data-url="//1-to.com">
+                    <div class="item active">
+                        <img src="/img/target-logo.jpg" alt="" class="portfolio" width="341" height="256" >
+                    </div>
+                    <div class="item">
+                        <img src="/img/consensus-logo.jpg" alt="" class="portfolio" width="341" height="256" >
+                    </div>
+                </div> <!-- carousel-inner -->
+            </div> <!-- carousel -->
+        </div><!-- col-md-2 -->
+            
+        <div class="col-md-4">
+            <h4>Mobile Device POA (Point of Activation) Platform</h4>
+            <ul>               
+            <li>Front-end and back-end support of Target’s enterprise platform for mobile device activation by Verizon, Sprint, and AT&T, a Consensus Corporation's SAAS implemented in all Target stores.</li>
+            <li>Main Technologies: LAMP, AWS, JavaScript, jQuery, AJAX, HTML5, CSS3.</li>
+            <li>I contributed in providing the software supports, such as adding the front-end platform features according to business partner requirements.</li>
+            </ul>
+        </div><!-- col-md-4 -->    
+
+    </div><!-- row 2nd -->
 
     <div class="row"> 
         <!-- referral-tracker.net -->
@@ -140,30 +194,5 @@ author: all
             <li><a href="//wildbirdslife.com" target="_blank">Visit the site</a></li>
             </ul>
         </div><!-- col-md-4 -->
-    </div><!-- row -->
-
-    <div class="row">     
-        <!-- 1-if.com -->
-        <div class="col-md-2">
-            <div class="carousel" id="1-if">
-                <div class="carousel-inner" data-url="//1-if.com">
-                    <div class="item active">
-                        <img src="//52.53.249.122:4000?url=http://1-if.com&ySlices=3&xSlices=3&slideIndex=2" alt="" class="portfolio" width="341" height="256">
-                    </div>
-                </div> <!-- carousel-inner -->
-          
-            </div> <!-- carousel -->
-        </div><!-- col-md-2 -->
-        <div class="col-md-4">    
-            <h4><a href="//1-if.com" target="_blank">1-if</a></h4>
-            <ul>
-            <li>A WordPress blog about cooking and recipes.</li>
-            <li>Technologies: LAMP, Javascript, jquery, HTML5, CSS3.</li>
-            <li>Hosted at 1and1.com.</li>
-            <li>I customized a WordPress theme. The blog's guests or visitors can post recipes with images.</li>
-            <li><a href="//1-if.com" target="_blank">Visit the site. </a></li>
-            </ul>
-        </div><!-- col-md-4 -->
-    </div><!-- row -->
-
+    </div><!-- row 3th -->
 </div><!-- container-fluid portfolio -->
