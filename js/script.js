@@ -122,7 +122,7 @@ $(function(){
     $('.hitcounter').append('<img src="' + imgsource + '" title="Hit Counter" alt="Hit Counter" width="75" height="20" />');
 
     // Link the carousel to the website home page, get the site url form the attribute 'data-url'
-    $(".carousel-inner").click(function(){
+    $(".data-url").click(function(){
         window.open($(this).attr("data-url"), '_blank');
     })
     
