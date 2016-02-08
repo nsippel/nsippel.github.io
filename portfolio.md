@@ -79,7 +79,7 @@ author: all
         <div class="col-lg-6 col-md-12 margin-bottom-15">
             <div class="img-alt col-lg-4 col-md-12"><img src="/img/houndproject.jpg"></div>
             <div class="carousel col-lg-4 col-md-12" id="hp">
-                <ol class="carousel-indicators">
+                <ol class="carousel-indicators visible-lg">
                     <li data-target="#hp" data-slide-to="0" ></li>
                     <li data-target="#hp" data-slide-to="1" ></li>
                     <li data-target="#hp" data-slide-to="2" class="active" ></li>
@@ -114,7 +114,7 @@ author: all
             <div class="img-alt col-lg-4 col-md-12"><img src="/img/target-logo.jpg"></div>
             <div class="carousel col-lg-4 col-md-12" data-ride="carousel" id="target-con">
                 <!-- Indicators -->
-                <ol class="carousel-indicators">
+                <ol class="carousel-indicators visible-lg">
                     <li data-target="#target-con" data-slide-to="0" class="active"></li>
                     <li data-target="#target-con" data-slide-to="1"></li>
                 </ol>
@@ -147,7 +147,7 @@ author: all
         <div class="col-lg-6 col-md-12 margin-bottom-15">
             <div class="img-alt col-lg-4 col-md-12"><img src="/img/referral-tracker.jpg"></div>
             <div class="carousel col-lg-4 col-md-12" id="r-t">
-                <ol class="carousel-indicators">
+                <ol class="carousel-indicators visible-lg">
                     <li data-target="#r-t" data-slide-to="0"  class="active"></li>
                     <li data-target="#r-t" data-slide-to="1" ></li>
                     <li data-target="#r-t" data-slide-to="2" ></li>
@@ -180,7 +180,7 @@ author: all
         <div class="col-lg-6 col-md-12 margin-bottom-15">
             <div class="img-alt col-lg-4 col-md-12"><img src="/img/wildbirdslife.jpg"></div>
             <div class="carousel col-lg-4 col-md-12" id="wbl">
-                <ol class="carousel-indicators">
+                <ol class="carousel-indicators visible-lg">
                     <li data-target="#wbl" data-slide-to="0" ></li>
                     <li data-target="#wbl" data-slide-to="1" class="active"></li>
                 </ol>
