@@ -124,18 +124,24 @@ $(function(){
     // Link the carousel to the website home page, get the site url form the attribute 'data-url'
     $(".data-url").click(function(){
         window.open($(this).attr("data-url"), '_blank');
-    })
+    });
     
+    // show the alt image and hide the carousel. Show the carousel after all the carousel images are loaded
+    $('.img-alt').show();
+    $('.carousel').hide();
+    // main carousel loaded ?
+    $('.img-last').on('load', function(){
+    // hide/remove the loading image
+        $('.img-alt').hide();
+        $('.carousel').show();
+    });
 
-
-
-
-
-
-
-
-
-
+    $.preloadImages = function() {
+      for (var i = 0; i < arguments.length; i++) {
+        $("<img />").attr("src", arguments[i]);
+      }
+    };
+   
 });
 
 
