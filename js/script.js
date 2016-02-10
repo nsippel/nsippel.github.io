@@ -125,7 +125,13 @@ $(function(){
     $(".data-url").click(function(){
         window.open($(this).attr("data-url"), '_blank');
     });
-    
+
+    $.preloadImages = function() {
+      for (var i = 0; i < arguments.length; i++) {
+        $("<img />").attr("src", arguments[i]);
+      }
+    };
+
     // show the alt image and hide the carousel. Show the carousel after all the carousel images are loaded
     $('.img-alt').show();
     $('.carousel').hide();
@@ -134,14 +140,7 @@ $(function(){
     // hide/remove the loading image
         $('.img-alt').hide();
         $('.carousel').show();
-    });
-
-    $.preloadImages = function() {
-      for (var i = 0; i < arguments.length; i++) {
-        $("<img />").attr("src", arguments[i]);
-      }
-    };
-   
+    });   
 });
 
 

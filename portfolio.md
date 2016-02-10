@@ -134,9 +134,9 @@ author: all
             <div class="col-lg-8 col-md-12">
                 <h4>Mobile Device POA (Point of Activation) Platform</h4>
                 <ul>               
-                <li>Front-end and back-end support of Target’s enterprise platform for mobile device activation by Verizon, Sprint, and AT&T, a Consensus Corporation's SAAS, implemented in all Target stores.</li>
+                <li>Front-end and back-end support of Target’s enterprise platform for mobile device activation by Verizon, Sprint, and AT&T, implemented in all Target stores.</li>
                 <li>Main Technologies: LAMP, AWS, JavaScript, jQuery, AJAX, HTML5, CSS3.</li>
-                <li>I contributed in providing the software supports, such as adding the front-end platform features according to business partner requirements.</li>
+                <li>I provided ongoing support and maintenance, such as adding front-end platform features according to business partner requirements.</li>
                 </ul>
             </div><!-- col-md-4 -->    
         </div>
