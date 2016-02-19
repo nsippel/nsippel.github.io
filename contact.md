@@ -72,7 +72,8 @@ author: all
 			                	<i class="icon-smile"></i> Ninique Y. Sippel (Nicki)<br/>
 			                	<i class="icon-home"></i> San Rafael, CA 94903<br/>
 			                	<i class="icon-phone"></i> 1.415.488.6863<br/>
-			                	<a href="//www.linkedin.com/in/ninique-sippel-063155a3" alt="" target="_blank"><i class="icon-linkedin"></i></a>
+			                	<a href="https://www.linkedin.com/in/ninique-y-sippel-nicki-063155a3
+" alt="" target="_blank"><i class="icon-linkedin"></i></a>
 			                	<a href="//github.com/nsippel" alt="" target="_blank"><i class="icon-github"></i></a>
 		                	</h3>
 		                	<p class="quote">
